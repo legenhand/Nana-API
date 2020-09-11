@@ -1,5 +1,4 @@
 {
-  "Nana-Theme": {
     "Nana-Official": {
       "theme-code" : "offi",
       "welcome" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/welcome_nana_banner.jpeg",
@@ -14,5 +13,4 @@
       "settings" : "https://put.url.image/here",
       "stats" : "https://put.url.image/here"
     }
-  }
 }
