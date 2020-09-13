@@ -6,6 +6,13 @@
       "settings" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/bannernanasettings.jpeg",
       "stats" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/statsbanner.jpeg"
     },
+    "Arknights": {
+      "theme-code" : "arkn",
+      "welcome" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/welcome_arknights.jpg",
+      "start" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/welcome_arknights.jpg",
+      "settings" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/settings_arknights.jpg",
+      "stats" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/welcome_arknights.jpg"
+    },
     "Test-Theme": {
       "theme-code" : "more",
       "welcome" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/arkneg.jpg",
