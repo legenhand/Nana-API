@@ -8,9 +8,9 @@
     },
     "Test-Theme": {
       "theme-code" : "more",
-      "welcome" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg",
-      "start" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg",
-      "settings" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg",
-      "stats" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg"
+      "welcome" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/arkneg.jpg",
+      "start" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/arkneg.jpg",
+      "settings" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/arkneg.jpg",
+      "stats" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/arkneg.jpg"
     }
 }
