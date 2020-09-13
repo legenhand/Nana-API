@@ -6,11 +6,11 @@
       "settings" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/bannernanasettings.jpeg",
       "stats" : "https://raw.githubusercontent.com/legenhand/Nana-bot-file/master/image/statsbanner.jpeg"
     },
-    "More-Theme": {
+    "Test-Theme": {
       "theme-code" : "more",
-      "welcome" : "https://put.url.image/here",
-      "start" : "https://put.url.image/here",
-      "settings" : "https://put.url.image/here",
-      "stats" : "https://put.url.image/here"
+      "welcome" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg",
+      "start" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg",
+      "settings" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg",
+      "stats" : "https://i.pximg.net/img-master/img/2017/08/17/00/00/01/64457926_p0_master1200.jpg"
     }
 }
