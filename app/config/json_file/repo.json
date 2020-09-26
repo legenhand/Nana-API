@@ -17,6 +17,11 @@
         "is-beta" : false,
         "dockerfile" : "https://raw.githubusercontent.com/legenhand/Nana-Bot/v2.1/Dockerfile",
         "description" : "Version of Nana Using pyrogram 0.18"
+      },
+      "v2.2" : {
+        "is-beta" : false,
+        "dockerfile" : "https://raw.githubusercontent.com/legenhand/Nana-Bot/v2.2/Dockerfile",
+        "description" : "this is last version of nana 2.x, using pyrogram version 0.8.x\n\nchangelog 2.1 -> 2.2 :\n\n    Customize Theme\n    Add Heroku Vars\n    Some improvements at Nana Assistant\n"
       }
     }
   },
